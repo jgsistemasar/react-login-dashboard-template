@@ -18,7 +18,7 @@ export const Login = () => {
                     <label for="password" class="form-label ">Contraseña</label>
                     <input type="password" class="form-control" id="password" placeholder="*******"></input>
                   </div>
-                  <p class="small"><a class="text-primary" href="forget-password.html">Forgot password?</a></p>
+                  <p class="small"><a class="text-primary" href="forget-password.html">Olvidaste tu contraseña?</a></p>
                   <div class="d-grid">
                     <button class="btn btn-outline-dark" type="submit">Ingresar</button>
                   </div>
