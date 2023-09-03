@@ -5,6 +5,14 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const Login = () => {
   return (
+    <div className="container">
+    <div className='row mb-5'>
+        <div className='col mb-5'>
+            <h1></h1>
+        </div>
+    </div>
+    <div className='row'>
+        <div className='col'>
         <div class="row d-flex justify-content-center">
           <div class="col-12 col-md-8 col-lg-6">
             <div class="card bg-white border-0">
@@ -33,5 +41,9 @@ export const Login = () => {
             </div>
           </div>
         </div>
+        </div>
+        </div>
+        </div>
+      
   )
 }

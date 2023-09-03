@@ -7,6 +7,7 @@ function App() {
         <div>
             <Rutas/>
         </div>
+
   );
 }
 
