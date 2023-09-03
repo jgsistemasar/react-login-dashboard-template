@@ -1,5 +1,5 @@
 import './App.css';
-import { Login } from './components/login/Login';
+import { Rutas } from './router/Rutas';
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       </div>
       <div className='row'>
         <div className='col'>
-            <Login/>
+            <Rutas/>
         </div>
 
       </div>
