@@ -2,6 +2,7 @@ import React from 'react'
 // Importing the Bootstrap 5 CSS
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 export const Login = () => {
   return (
         <div class="row d-flex justify-content-center">
