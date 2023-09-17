@@ -33,7 +33,7 @@ export const Login = () => {
                   </div>
                 </form>
                 <div>
-                  <p class="mb-0  text-center">No tienes cuenta? <a href="signup.html" class="text-primary fw-bold">Crea 
+                  <p class="mb-0  text-center">No tienes cuenta? <a href="/layout" class="text-primary fw-bold">Crea 
                       una</a></p>
                 </div>
 

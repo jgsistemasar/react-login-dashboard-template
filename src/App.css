@@ -91,12 +91,31 @@ a {
 
 /* --- --- MAIN --- --- */
 .main {
-	padding-top: 40px;
+	padding-top: 0px;
 	background: #f2f2f2;
 }
 
 .main .columna {
 	padding:0 40px;
+}
+
+.main .titulo_layout {
+	background-color: #0275d8;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 40px;
+	min-width: auto;
+
+}
+
+.main .titulo_layout_text {
+	background-color: #0275d8;
+	color: #faf9f9;
+	padding: 15px;
+	text-align: center;
+	font-size: 40px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 500;
 }
 
 .main .titulo {
